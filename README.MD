@@ -2,12 +2,12 @@
 Spawn item markers on specific gathering nodes and hides undesireable nodes.
 
 # Commands 
-- **gathering** - toggle module off/on (DEFAULT: ON)
-- **gathering on** - turn on module
-- **gathering off** - turn off module
-- **gathering marker** - toggle item markers (DEFAULT: ON)
-- **gathering messager** - toggle proxy messages (DEFAULT: OFF)
-- **gathering alert** - toggle system notices (DEFAULT: OFF)
+- **gat** - toggle module off/on
+- **gat on** - turn on module
+- **gat off** - turn off module
+- **gat marker** - toggle item markers
+- **gat messager** - toggle proxy messages
+- **gat alert** - toggle system notices
 
 # Config
 - **enabled** - Turn module on during startup
@@ -37,7 +37,5 @@ Spawn item markers on specific gathering nodes and hides undesireable nodes.
 | 204 - Azure Essence |
 | 205 - Opal Essence |
 | 206 - Obsidian Essence |
-
----
-
-[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PXRFYB39SQP4A&lc=US&item_name=teralove&no_note=0&cn=Add%20special%20instructions%20to%20the%20seller%3a&no_shipping=1&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted).
+| 301 - Duranium Ore (Exodor)|
+| 601 - Duranium Crystal (Exodor)|
