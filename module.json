@@ -1,11 +1,10 @@
 {
     "disableAutoUpdate": false,
     "name": "gathering-markers",
-    "author": "teralove",
+    "author": "teralove, odukjung",
     "description": "Spawn item markers on gathering nodes and hide undesireable nodes.",
     "options": {
         "niceName": "Gathering Markers"
     },
-    "servers": ["https://raw.githubusercontent.com/teralove/gathering-markers/master/"],
-    "supportUrl": "https://github.com/teralove/gathering-markers/issues"
+    "servers": [""],
 }
