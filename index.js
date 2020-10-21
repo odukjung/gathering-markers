@@ -57,7 +57,7 @@ module.exports = function GatheringMarkers(mod) {
 
 	function spawnMark(idRef, loc) {
         loc.z -= 100;
-		mod.send('S_SPAWN_DROPITEM', 8, {
+		mod.send('S_SPAWN_DROPITEM', 9, {
 			gameId: idRef,
 			loc: loc,
 			item: Item_ID, 
