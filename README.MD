@@ -1,6 +1,9 @@
 # gathering-markers
 Spawn item markers on specific gathering nodes and hides undesireable nodes.
 
+# Update
+- **fix** Out date def file
+
 # Commands 
 - **gat** - toggle module off/on
 - **gat on** - turn on module
